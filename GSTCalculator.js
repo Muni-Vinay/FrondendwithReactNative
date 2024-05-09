@@ -32,7 +32,9 @@ const App = () => {
         tw`flex-1 bg-gray-100 p-4 items-center justify-center`,
         {marginTop: 20},
       ]}>
-      <Text style={tw`text-lg font-bold text-black`}>Free GST Calculator</Text>
+      <Text style={tw`text-lg font-bold text-black`}>
+        Free GST Calculator !
+      </Text>
       <View
         style={tw`bg-white rounded-lg border border-gray-300 mx-4 p-4 w-full`}>
         <Text style={tw`font-bold text-black`}>Amount</Text>
